@@ -1,6 +1,6 @@
 👋 Hi, my name is Brendan
 
-👀 I have a strong interest in software development, with a focus on Linux operating systems and front-end development.
+👀 I have a strong interest in software development and mixing music, with a focus on Linux operating systems and front-end development.
 
 🌱 Currently, I’m pursuing a Computer Programming Diploma at Humber College.
 
